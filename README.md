@@ -1,7 +1,7 @@
 # Mini Basketball Game
 
 ## Description
-A basic mini basketball game developed in Unity. The game features core mechanics such as throwing, picking, walking, and scoring. 
+A basic mini basketball game developed in Unity. The game features core mechanics are working such as throwing, picking, walking, and scoring. 
 
 ## How to Play
 - **Movement:** WASD keys
