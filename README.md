@@ -3,6 +3,9 @@
 ## Description
 A basic mini basketball game developed in Unity. The game features core mechanics are working such as throwing, picking, walking, and scoring. 
 
+## Models
+The basketball court, basketball hoop with its rope, ball, and wooden chair were created by me using Blender.
+
 ## How to Play
 - **Movement:** WASD keys
 - **Shot:** Left Click
@@ -16,6 +19,8 @@ A basic mini basketball game developed in Unity. The game features core mechanic
 ## Future Improvements
 - Add sound effects to enhance gameplay.
 - Improve the user interface to indicate shot force based on mouse button duration.
+- The hoop's rope does not render in the WebGL project due to the detailed procedural approach. It can be editted 
+  
 
 ## Screenshots
 ![b5a58f18-2385-4201-a955-6eb10e496907_Ekran_g_r_nt_s__2024-08-12_221429](https://github.com/user-attachments/assets/f81f7395-06ab-4ffe-bbe6-0a35e577fdff)
